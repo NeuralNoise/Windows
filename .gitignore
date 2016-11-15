@@ -20,9 +20,17 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
+
+# tmp
+*.tmp
+*.zip
+
+# C-Free tmp file
+*.cpp~
+*.*~
+~*.*
